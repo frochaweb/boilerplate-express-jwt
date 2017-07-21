@@ -1,5 +1,13 @@
 # Api Starter
 
-###Features
+## Getting Started
 
-*Jwt Authentication using Email and Password
+Just download or clone the repository, after that run npm install
+
+## Features
+
+* Jwt Authentication using Email and Password
+
+## Author
+
+* **Fellipe Rocha**
